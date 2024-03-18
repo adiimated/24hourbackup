@@ -28,4 +28,4 @@ Example:
 ```
 ./backup.sh /path/to/documents /path/to/backup-destination
 ```
-This command will create an archive of all files in /path/to/important-documents modified in the last 24 hours and place it in /path/to/backup-destination.
+This command will create an archive of all files in /path/to/documents modified in the last 24 hours and place it in /path/to/backup-destination.
